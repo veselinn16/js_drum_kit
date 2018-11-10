@@ -1,3 +1,14 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;  /* 1rem = 10px, 10px : 16px = 62.5% */
+}
+
+@media only screen and (min-width: 112.5em) {
+    html {
+        font-size: 75%;
+    }
+}
+
 body {
     margin: 0;
     box-sizing: border-box;
@@ -10,7 +21,7 @@ body {
     background-size: cover;
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }
 
 .grid {
