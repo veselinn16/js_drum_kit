@@ -27,5 +27,12 @@ body {
 .grid {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
-    grid-column-gap: 10px;
+    grid-column-gap: 4rem;
+}
+
+.btn {
+    padding: 3rem;
+    color: #fff;
+    border: #fff 2px solid;
+    border-radius: 1rem;
 }
