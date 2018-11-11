@@ -1,7 +1,7 @@
 # JS Drum Kit
 
 ## Description
-A JavaScript app for playing the drums :).
+A JavaScript app for playing the drums :smile:.
 
 ## Getting Started
 
