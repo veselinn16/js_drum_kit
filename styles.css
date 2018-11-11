@@ -48,3 +48,9 @@ body {
     color: #00317E;
     border: 2px solid #fff;
 }
+
+.btn:active {
+    background: #412;
+    border: 2px solid #412;
+    transform: scale(1.1);
+}
