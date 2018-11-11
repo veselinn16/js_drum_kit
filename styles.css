@@ -22,7 +22,7 @@ body {
 .container {
     width: 100vw;
     height: 100vh;
-    background-image: url(hero.jpg);
+    background-image: url(img/hero.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
