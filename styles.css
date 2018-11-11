@@ -9,6 +9,11 @@ html {
     }
 }
 
+::selection {
+    background: #00317E;
+    color: #fff;
+}
+
 body {
     margin: 0;
     box-sizing: border-box;
